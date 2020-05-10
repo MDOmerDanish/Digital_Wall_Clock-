@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589108211 source:c:\users\user\desktop\digital_wall_clock\digital_wall_clock.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1462158568 c:\users\user\desktop\digital_wall_clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
